@@ -2,8 +2,6 @@
 
 A simple ToDo application built with React and TypeScript. The app allows users to create, edit, complete, and remove tasks, as well as filter them by status. The state is persisted in the browser's `localStorage`.
 
-![todoapp](./description/todoapp.gif)
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -48,7 +46,7 @@ This application is based on the popular ToDoMVC app and includes the following 
 To run the project locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/<your_account>/react_to-do_app.git
+   git clone https://github.com/Miishca/react_to-do_app.git
 
 2. Navigate to the project folder:
    cd react_to-do_app
@@ -61,12 +59,20 @@ To run the project locally, follow these steps:
 
 ## Usage
 
-Add tasks by typing in the input field and pressing Enter.
-Double-click a task to edit its title.
-Use the filter buttons to show all, active, or completed tasks.
-Click the "Clear completed" button to remove completed tasks.
-Contributing
+- Add tasks by typing in the input field and pressing Enter.
+- Double-click a task to edit its title.
+- Use the filter buttons to show all, active, or completed tasks.
+- Click the "Clear completed" button to remove completed tasks.
+
+## Contributing
+
 Contributions are welcome! If you have any improvements, please create a pull request with a clear description of the changes.
 
 ## License
+
 This project is open-source and available under the MIT License.
+
+## Links
+
+- [Demo Page](https://miishca.github.io/react_to-do_app/)
+- [GitHub Project](https://github.com/Miishca/react_to-do_app)
